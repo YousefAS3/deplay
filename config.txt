@@ -1,0 +1,8 @@
+owner=449339893626306563
+prefix=de
+game= deplay
+stayinchannel=true
+songinstatus=false
+token=NTczNTcxNjY4NjE0ODQwMzIw.XMsyWQ.gjYCo6rxdajnxwEudY9Rlod1LCE
+
+
